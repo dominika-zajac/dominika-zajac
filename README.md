@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello, I'm Domi 👋 
 
-<!--
-**dominika-zajac/dominika-zajac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm a software engineer from the profession, education, and passion  
+💻 Currently, work as a full-stack developer (mostly with Node, React, and ExpressJS)  
+🎤 I conduct workshops and prelections about IT (mostly for kids and tech newbies)  
+💬 Ask me about web development, coding best practices, and accessibility  
+👋 My pronouns She/Her  
+⚡ Fun fact I played in one spectacle in professional theatre (dreams come true!)  
 
-Here are some ideas to get you started:
+On the Internet **you can find me also on**:
+- My page: https://www.domizajac.com/ 
+- Linkedin: https://www.linkedin.com/in/dominikazajac/ 
+- Dev.to: https://dev.to/domizajac 
+- Medium: https://domizajac.medium.com/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Want to talk? Just ping me on Twitter: https://twitter.com/domizajac

@@ -8,7 +8,6 @@
 ⚡ Fun fact I played in one spectacle in professional theatre (dreams come true!)  
 
 On the Internet **you can find me also on**:
-- My page: https://www.domizajac.com/ 
 - Linkedin: https://www.linkedin.com/in/dominikazajac/ 
 - Dev.to: https://dev.to/domizajac 
 - Medium: https://domizajac.medium.com/ 
